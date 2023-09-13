@@ -1,1 +1,0 @@
-self.__SSG_MANIFEST=new Set(["\u002Fvstup\u002F[year]\u002Fspec\u002F[id]","\u002Fvstup\u002F[year]\u002Funiver\u002F[id]"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()
